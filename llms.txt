@@ -1,0 +1,22 @@
+# E-Rechnung für Sheets – XRechnung & ZUGFeRD
+
+> E-Rechnung ist ein Add-on für Google Sheets (und ein Schwester-Add-in für Excel), das Rechnungszeilen in deutsche
+> E-Rechnungen verwandelt: ZUGFeRD-PDF und XRechnung-XML (CII oder UBL), geprüft gegen EN 16931 und XRechnung mit
+> Hinweis auf die betroffene Zelle. Dazu Steuerfälle von Kleinunternehmer bis Reverse Charge, Leitweg-ID, GiroCode,
+> Eingangsrechnungen einlesen und DATEV-Buchungsstapel. Ein kostenloser Browser-Viewer für XRechnung gehört dazu.
+> Diese Dokumentation richtet sich an Nutzer und ihre Assistenten (Mensch oder KI).
+
+## Docs
+
+- [Überblick](README.md): das Problem und das Leben einer Rechnung
+- [Erste Schritte](getting-started.md): Installation, Einrichten, erste Rechnung
+- [Tabelle ausfüllen](invoice-sheet.md): Tabs, Spalten, Verkäufer, Kunden, Einstellungen
+- [Steuerfälle](tax-cases.md): 19/7 %, § 19 UStG, § 13b, innergemeinschaftlich, Ausfuhr, Rabatte, Gutschriften
+- [Prüfung](validation.md): Fehler und Warnungen, Sprung in die Zelle
+- [Dateien erstellen](creating-files.md): Formate, PDF-Vorlage, GiroCode, Ablage in Drive
+- [Eingangsrechnungen](incoming.md): E-Rechnungen lesen und in die Tabelle übernehmen
+- [DATEV](datev.md): Buchungsstapel (EXTF) für den Steuerberater
+- [Kostenloser Viewer](viewer.md): XRechnung im Browser lesen
+- [Excel](excel.md): Unterschiede zum Google-Sheets-Add-on
+- [Preise, Lizenz, Datenschutz](pricing-and-privacy.md): 2,99 €/Monat oder 29 €/Jahr, 30 Tage kostenlos
+- [FAQ und Fehlerbehebung](faq.md)
