@@ -35,7 +35,8 @@ Zahlen und Daten dürfen deutsch geschrieben sein (`1.234,56`, `31.12.2026`). Ei
 
 `Kundennr.`, `Name`, `Straße`, `PLZ`, `Ort`, `Land` (Ländercode wie DE, AT; leer = DE), `USt-IdNr.`, `E-Mail`,
 `Leitweg-ID`, `Ansprechpartner`. Die `Leitweg-ID` tragen Sie nur bei öffentlichen Auftraggebern ein; sie schaltet die
-Rechnung auf das Profil XRECHNUNG und wird als Käuferreferenz übernommen. Ohne Leitweg-ID dient `Bestellnr.`, sonst
+Rechnung auf das Profil XRECHNUNG (das gilt auch ohne Leitweg-ID, wenn `Einstellungen → Ausgabe` eine
+XRechnung-Variante ist) und wird als Käuferreferenz übernommen. Ohne Leitweg-ID dient `Bestellnr.`, sonst
 die `Kundennr.` als Käuferreferenz.
 
 ## Tab `Verkäufer` – Spalte A Bezeichnung, Spalte B Wert

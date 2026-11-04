@@ -10,13 +10,14 @@ Tab `Einstellungen`:
 | Zeile | Bedeutung | Standard, wenn leer |
 |---|---|---|
 | `Kontenrahmen` | `SKR03` oder `SKR04` | SKR03 |
-| `DATEV Beraternummer` | Nummer Ihres Steuerberaters | 1001 |
-| `DATEV Mandantennummer` | Ihre Mandantennummer | 1 |
+| `DATEV Beraternummer` | Nummer Ihres Steuerberaters | Pflicht, kein Standard |
+| `DATEV Mandantennummer` | Ihre Mandantennummer | Pflicht, kein Standard |
 | `Debitorenkonto` | Konto für Ausgangsrechnungen | 10000 (Sammeldebitor) |
 | `Kreditorenkonto` | Konto für Eingangsrechnungen | 70000 (Sammelkreditor) |
 
-Die Standardwerte für Berater- und Mandantennummer sind Platzhalter. Erfragen Sie die echten Nummern bei Ihrem
-Steuerberater, bevor Sie den Stapel weitergeben.
+Berater- und Mandantennummer erfahren Sie von Ihrem Steuerberater. Fehlt eine davon, bricht der Export mit dem Hinweis
+„Bitte im Tab „Einstellungen“ DATEV Beraternummer und DATEV Mandantennummer eintragen ...“ ab, statt eine Datei mit
+falschen Nummern zu erzeugen, die DATEV ablehnt oder dem falschen Mandanten zuordnet.
 
 ## Erzeugen
 

@@ -11,7 +11,7 @@ eine Google-Tabelle. Beim ersten Start fragt Google nach Berechtigungen; welche 
 
 ## 2. Einrichten
 
-*Erweiterungen → E-Rechnung für Sheets → Einrichten (Tabs & Vorlage)*. Das Add-on legt an:
+*Erweiterungen → E-Rechnung für Sheets – XRechnung & ZUGFeRD → Einrichten (Tabs & Vorlage)*. Das Add-on legt an:
 
 - die Tabs `Rechnungen`, `Kunden`, `Verkäufer`, `Einstellungen` mit Beispieldaten,
 - den Drive-Ordner „E-Rechnungen“,
@@ -45,5 +45,5 @@ Siehe [Dateien erstellen](creating-files.md#die-pdf-vorlage).
 
 ## Hilfe in der App
 
-*Erweiterungen → E-Rechnung für Sheets → Hilfe* zeigt einen Link zur Hilfeseite. Die Seitenleiste folgt der Sprache
+*Erweiterungen → E-Rechnung für Sheets – XRechnung & ZUGFeRD → Hilfe* zeigt einen Link zur Hilfeseite. Die Seitenleiste folgt der Sprache
 Ihres Google-Kontos (Deutsch oder Englisch); die Tab- und Spaltennamen in der Tabelle sind immer deutsch.

@@ -38,8 +38,7 @@ Tabelle ([Dateien erstellen](creating-files.md#die-pdf-vorlage)). Haben Sie Plat
 bleibt der Text leer oder die Positionen fehlen.
 
 **Gibt es einen E-Mail-Versand aus dem Add-on?** Die im Marketplace angebotene Version versendet nicht selbst. Senden
-Sie die Dateien aus Drive über Ihr Mailprogramm. (Die Website nennt „optional Versand über Gmail“; diese Funktion ist
-in der Marketplace-Version nicht enthalten.)
+Sie die Dateien aus Drive über Ihr Mailprogramm.
 
 **Wie lange dauert das Erstellen?** Etwa 10–20 Sekunden pro Rechnung.
 
@@ -62,8 +61,7 @@ sprechen Sie die Zuordnung mit ihm ab und tragen Sie Debitoren-, Kreditoren- und
 
 ## Lizenz und Daten
 
-**Was passiert nach der Testphase?** Erstellen ist gesperrt; Ansehen, Prüfen, Einlesen und DATEV-Export bleiben. Hinweis:
-Die Website nennt nur „Anzeigen und Prüfen“; das Verhalten des Add-ons ist wie hier beschrieben.
+**Was passiert nach der Testphase?** Erstellen ist gesperrt; Ansehen, Prüfen, Einlesen und DATEV-Export bleiben.
 
 **Sehen Sie meine Rechnungen?** Nein. Rechnungsdaten bleiben in Ihrem Google-Konto; nur Lizenzschlüssel und Hashes
 von Konto und Domain gehen an den Lizenzserver ([Datenschutz](pricing-and-privacy.md)).

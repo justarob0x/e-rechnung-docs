@@ -10,7 +10,7 @@ Ob das Add-in in Ihrem Store bereits verfügbar ist, steht auf <https://erechnun
 
 | | Google Sheets | Excel |
 |---|---|---|
-| Einrichten | *Erweiterungen → E-Rechnung für Sheets → Einrichten (Tabs & Vorlage)* | *Start → E-Rechnung → Einrichten* |
+| Einrichten | *Erweiterungen → E-Rechnung für Sheets – XRechnung & ZUGFeRD → Einrichten (Tabs & Vorlage)* | *Start → E-Rechnung → Einrichten* |
 | Aufbau | Seitenleiste | Aufgabenbereich mit Reitern `Ausgang`, `Eingang`, `DATEV`, `Layout` |
 | PDF-Layout | Google-Docs-Vorlage, frei gestaltbar | A4-Layout vom Add-in gezeichnet; anpassbar über Logo (PNG/JPG, max. 300 KB, im Reiter `Layout`), `Akzentfarbe`, `Einleitungstext`, `Schlusstext` in `Einstellungen` |
 | Ablage der Dateien | Drive-Ordner „E-Rechnungen“ | Download auf Ihren Rechner |

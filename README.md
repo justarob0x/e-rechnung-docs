@@ -18,7 +18,7 @@ fertigen Dateien in Ihrem Google Drive ab. Ihre Rechnungsdaten bleiben in Ihrem 
 
 ## Das Leben einer Rechnung
 
-1. **Einrichten.** In einer Google-Tabelle *Erweiterungen → E-Rechnung für Sheets → Einrichten (Tabs & Vorlage)*.
+1. **Einrichten.** In einer Google-Tabelle *Erweiterungen → E-Rechnung für Sheets – XRechnung & ZUGFeRD → Einrichten (Tabs & Vorlage)*.
    Das Add-on legt die Tabs `Rechnungen`, `Kunden`, `Verkäufer` und `Einstellungen` mit Beispieldaten an, dazu den
    Drive-Ordner „E-Rechnungen“ und eine Google-Docs-Vorlage.
 2. **Stammdaten eintragen.** Ihre Firma im Tab `Verkäufer`, Ihre Kunden im Tab `Kunden` (bei Behörden mit
@@ -36,7 +36,7 @@ fertigen Dateien in Ihrem Google Drive ab. Ihre Rechnungsdaten bleiben in Ihrem 
 
 ## Wo was liegt
 
-- **Seitenleiste „E-Rechnung“** (*Erweiterungen → E-Rechnung für Sheets → Seitenleiste öffnen*): Reiter
+- **Seitenleiste „E-Rechnung“** (*Erweiterungen → E-Rechnung für Sheets – XRechnung & ZUGFeRD → Seitenleiste öffnen*): Reiter
   `Ausgang`, `Eingang`, `DATEV`.
 - **Tabs in Ihrer Tabelle:** `Rechnungen`, `Kunden`, `Verkäufer`, `Einstellungen`, später `Eingangsrechnungen`.
 - **Drive-Ordner „E-Rechnungen“:** erzeugte PDF-, XML- und CSV-Dateien.
